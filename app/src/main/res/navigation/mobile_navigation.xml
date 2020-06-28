@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/all_packages">
+
+    <fragment
+        android:id="@+id/all_packages"
+        android:name="il.co.yedidia_shmuel.ddb_2.controller.fragments.AllPackages.AllPackagesFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/all_packages_fragment">
+
+        <action
+            android:id="@+id/action_HomeFragment_to_HomeSecondFragment"
+            app:destination="@id/nav_home_second" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_home_second"
+        android:name="il.co.yedidia_shmuel.ddb_2.controller.fragments.AllPackages.HomeSecondFragment"
+        android:label="@string/home_second"
+        tools:layout="@layout/fragment_home_second">
+        <action
+            android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
+            app:destination="@id/all_packages" />
+
+        <argument
+            android:name="myArg"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/packages_i_can_collect"
+        android:name="il.co.yedidia_shmuel.ddb_2.controller.fragments.packagesICanCollect.PackagesICanCollectFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/package_i_can_collect_fragment" />
+
+    <fragment
+        android:id="@+id/my_histroy_packages"
+        android:name="il.co.yedidia_shmuel.ddb_2.controller.fragments.HistoryPackages.HistoryPackagesFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/history_packages_fragment" />
+</navigation>

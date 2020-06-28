@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "92751838824",
+    "firebase_url": "https://ddb-app-52b30.firebaseio.com",
+    "project_id": "ddb-app-52b30",
+    "storage_bucket": "ddb-app-52b30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92751838824:android:27dd58d64117954d1d45dd",
+        "android_client_info": {
+          "package_name": "il.co.yedidia_shmuel.ddb_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92751838824-3asf523mm084torh4fbsk150j3tig3ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFrVjB0KT442iBIaBoGIEB3hVxZJV_20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92751838824-3asf523mm084torh4fbsk150j3tig3ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92751838824:android:b622b051baafe1781d45dd",
+        "android_client_info": {
+          "package_name": "il.co.yedidia_shmuel.ddb_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92751838824-3asf523mm084torh4fbsk150j3tig3ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFrVjB0KT442iBIaBoGIEB3hVxZJV_20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92751838824-3asf523mm084torh4fbsk150j3tig3ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92751838824:android:9b52f6793a2a3fe51d45dd",
+        "android_client_info": {
+          "package_name": "il.co.yedidia_shmuel.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92751838824-3asf523mm084torh4fbsk150j3tig3ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFrVjB0KT442iBIaBoGIEB3hVxZJV_20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92751838824-3asf523mm084torh4fbsk150j3tig3ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

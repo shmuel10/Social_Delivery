@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">DDB_2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_user_profile" translatable="false">UserProfileActivity</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">DDB! Fast Delivery</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+
+    <string name="menu_home" translatable="false">החבילות שלי</string>
+    <string name="menu_gallery" translatable="false">חבילות שאני יכול לאסוף</string>
+    <string name="menu_slideshow" translatable="false">היסטוריית החבילות שלי</string>
+
+    <string name="home_second" translatable="false">Home Second</string>
+    <string name="title_activity_main2" translatable="false">Main2Activity</string>
+</resources>

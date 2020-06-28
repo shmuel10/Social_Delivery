@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="buttonColor">#FFD600</color>
+    <color name="actionBarColor">#FFEE58</color>
+    <color name="actionBarTextColor">#DD2C00</color>
+    <color name="redColor">#DD2C00</color>
+    <color name="pinkColor">#F06292</color>
+    <color name="blue">#1A237E</color>
+    <color name="green">#1B5E20</color>
+    <color name="grey">#90A4AE</color>
+    <color name="orange"> #E65100</color>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
